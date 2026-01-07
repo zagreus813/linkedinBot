@@ -4,6 +4,7 @@
 
 The agent runs locally, reads content from an Excel sheet, posts to your LinkedIn profile via API, and automatically updates the status of each post to prevent duplicates.
 
+** Screenshots ** ![alt text](image.png)
 ---
 
 ## ✨ Features
